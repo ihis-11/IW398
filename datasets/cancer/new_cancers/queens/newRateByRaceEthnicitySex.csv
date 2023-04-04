@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
+Queens County New York,All Types of Cancer,2015-2019,Hispanic,Male,384.7,373.5,396.1,4993,1593543
+Queens County New York,All Types of Cancer,2015-2019,Hispanic,Female,358.3,349,367.8,5782,1583380
+Queens County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,360.9,351.3,370.6,5877,1501716
+Queens County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,363.9,355.1,372.9,6786,1608003
+Queens County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,85.8,53.7,130.2,23,27310
+Queens County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,89.1,56.9,132.7,25,28576
+Queens County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Male,495.8,481.9,509.9,5213,959838
+Queens County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Female,378.5,368.4,388.9,5635,1149498
+Queens County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Male,513.7,503.8,523.7,11025,1466450
+Queens County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Female,475.4,465.8,485.3,11280,1517641

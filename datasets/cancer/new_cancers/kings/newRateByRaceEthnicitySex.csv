@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
+Kings County New York,All Types of Cancer,2015-2019,Hispanic,Male,426.9,413.2,440.8,4034,1193556
+Kings County New York,All Types of Cancer,2015-2019,Hispanic,Female,373.8,363,384.8,4686,1260959
+Kings County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,425.6,410.6,440.9,3337,800894
+Kings County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,371.3,358.3,384.6,3277,856471
+Kings County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Kings County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Kings County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Male,505.1,494.6,515.8,9329,1757367
+Kings County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Female,378.3,370.9,385.9,10459,2221093
+Kings County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Male,497.4,488.4,506.6,12095,2369412
+Kings County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Female,473.4,464.9,481.9,13221,2458531

@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
+Richmond County New York,All Types of Cancer,2015-2019,Hispanic,Male,121.1,100.7,144,149,214336
+Richmond County New York,All Types of Cancer,2015-2019,Hispanic,Female,82.6,69.1,97.8,143,220959
+Richmond County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,101.9,82.6,124.4,115,110925
+Richmond County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,65.8,52.4,81.7,88,117798
+Richmond County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Richmond County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Richmond County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Male,176.2,146,210.5,144,110158
+Richmond County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Female,133.8,113.5,156.6,163,125707
+Richmond County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Male,175.5,167,184.5,1642,713555
+Richmond County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Female,137.7,131,144.7,1725,756853

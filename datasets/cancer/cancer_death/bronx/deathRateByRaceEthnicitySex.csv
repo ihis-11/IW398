@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
+Bronx County New York,All Types of Cancer,2015-2019,Hispanic,Male,154.9,148,162,2052,1887877
+Bronx County New York,All Types of Cancer,2015-2019,Hispanic,Female,98.8,94.4,103.2,2006,2118719
+Bronx County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,116.4,97,138.3,139,142528
+Bronx County New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,70.2,57.3,85.3,106,152498
+Bronx County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Bronx County New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Bronx County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Male,185.3,175.9,195.1,1622,1002737
+Bronx County New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Female,146,139.5,152.6,1989,1154694
+Bronx County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Male,180.5,169.1,192.6,1024,336817
+Bronx County New York,All Types of Cancer,2015-2019,White Non-Hispanic,Female,140.5,130.8,150.9,1052,352007

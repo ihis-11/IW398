@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
+New York,All Types of Cancer,2015-2019,Hispanic,Male,126.2,123.2,129.2,7594,9130750
+New York,All Types of Cancer,2015-2019,Hispanic,Female,87.7,85.7,89.7,7581,9398423
+New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,76.7,74.2,79.3,3607,4603338
+New York,All Types of Cancer,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,109.7,106.4,113.2,4245,4214187
+New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,71.9,60.6,84.7,150,185180
+New York,All Types of Cancer,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,69.4,57,83.8,116,172874
+New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Female,136.3,133.9,138.7,12930,7876524
+New York,All Types of Cancer,2015-2019,Black Non-Hispanic,Male,181.9,178.4,185.5,11032,6877878
+New York,All Types of Cancer,2015-2019,White Non-Hispanic,Female,132,130.9,133.1,61660,28309043
+New York,All Types of Cancer,2015-2019,White Non-Hispanic,Male,170,168.6,171.4,62492,27126593
