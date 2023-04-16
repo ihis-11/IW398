@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
+New York County New York,Oral Cavity and Pharynx,2015-2019,Hispanic,Male,15.2,12.9,17.9,150,1001030
+New York County New York,Oral Cavity and Pharynx,2015-2019,Hispanic,Female,5.3,4.1,6.8,70,1102500
+New York County New York,Oral Cavity and Pharynx,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,17,13.4,21.3,79,462837
+New York County New York,Oral Cavity and Pharynx,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,8.2,6.1,11,50,584887
+New York County New York,Oral Cavity and Pharynx,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+New York County New York,Oral Cavity and Pharynx,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+New York County New York,Oral Cavity and Pharynx,2015-2019,Black Non-Hispanic,Male,14.1,11,17.8,75,497052
+New York County New York,Oral Cavity and Pharynx,2015-2019,Black Non-Hispanic,Female,6.6,4.8,8.9,49,572318
+New York County New York,Oral Cavity and Pharynx,2015-2019,White Non-Hispanic,Male,18.5,16.7,20.3,441,1898615
+New York County New York,Oral Cavity and Pharynx,2015-2019,White Non-Hispanic,Female,7.1,6.1,8.3,196,2034478

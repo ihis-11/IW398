@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
+Bronx County New York,Lung and Bronchus,2015-2019,Hispanic,Male,29,26,32.2,379,1887877
+Bronx County New York,Lung and Bronchus,2015-2019,Hispanic,Female,14.5,12.9,16.3,295,2118719
+Bronx County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,25.1,16.9,35.8,33,142528
+Bronx County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,15,9.3,22.9,22,152498
+Bronx County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Bronx County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Bronx County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Male,39.2,35.1,43.8,354,1002737
+Bronx County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Female,25.1,22.5,27.9,351,1154694
+Bronx County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Male,41.6,36.4,47.5,239,336817
+Bronx County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Female,28.1,24.2,32.6,218,352007

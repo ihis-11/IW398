@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
+New York County New York,Lung and Bronchus,2015-2019,Hispanic,Male,20.9,18,24.1,196,1001030
+New York County New York,Lung and Bronchus,2015-2019,Hispanic,Female,12.1,10.4,14.1,181,1102500
+New York County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,32.7,27.7,38.5,151,462837
+New York County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,14.5,11.7,17.8,99,584887
+New York County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+New York County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+New York County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Male,49.1,43,55.8,247,497052
+New York County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Female,32,28.2,36.3,261,572318
+New York County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Male,19.4,17.7,21.3,461,1898615
+New York County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Female,21.3,19.7,23,654,2034478

@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
+Richmond County New York,Lung and Bronchus,2015-2019,Hispanic,Male,19.7,11.8,30.3,22,214336
+Richmond County New York,Lung and Bronchus,2015-2019,Hispanic,Female,9.2,5.1,15.1,16,220959
+Richmond County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,40,28,55.3,42,110925
+Richmond County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,15.8,9.6,24.6,21,117798
+Richmond County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Richmond County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+Richmond County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Male,38,25.6,54,35,110158
+Richmond County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Female,25.3,17.2,35.9,33,125707
+Richmond County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Male,43.2,39.1,47.8,408,713555
+Richmond County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Female,32.6,29.4,36,415,756853
