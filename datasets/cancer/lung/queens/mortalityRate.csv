@@ -1,11 +1,11 @@
-Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Death Count,Population
-Queens County New York,Lung and Bronchus,2015-2019,Hispanic,Male,17.6,15.1,20.4,194,1593543
-Queens County New York,Lung and Bronchus,2015-2019,Hispanic,Female,8.6,7.2,10.2,137,1583380
-Queens County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,27.6,24.9,30.6,409,1501716
-Queens County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,12.1,10.6,13.9,222,1608003
-Queens County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Queens County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Queens County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Male,27.8,24.5,31.5,270,959838
-Queens County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Female,16.5,14.5,18.6,263,1149498
-Queens County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Male,34.3,31.9,36.8,785,1466450
-Queens County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Female,26.7,24.8,28.8,801,1517641
+Race,Sex,Age-Adjusted Rate,lci,uci
+Hispanic,Male,17.6,15.1,20.4
+Hispanic,Female,8.6,7.2,10.2
+Asian and Pacific Islander Non-Hispanic,Male,27.6,24.9,30.6
+Asian and Pacific Islander Non-Hispanic,Female,12.1,10.6,13.9
+American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+Black Non-Hispanic,Male,27.8,24.5,31.5
+Black Non-Hispanic,Female,16.5,14.5,18.6
+White Non-Hispanic,Male,34.3,31.9,36.8
+White Non-Hispanic,Female,26.7,24.8,28.8

@@ -1,11 +1,11 @@
-Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
-New York County New York,Lung and Bronchus,2015-2019,Hispanic,Male,40.9,36.9,45.2,388,1001030
-New York County New York,Lung and Bronchus,2015-2019,Hispanic,Female,26.3,23.7,29.2,385,1102500
-New York County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,65.2,58,73.1,302,462837
-New York County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,42.3,37.3,47.9,268,584887
-New York County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-New York County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-New York County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Male,71.4,64.1,79.3,369,497052
-New York County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Female,56,50.9,61.5,452,572318
-New York County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Male,39.7,37.2,42.4,951,1898615
-New York County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Female,47.8,45.3,50.5,1396,2034478
+Race,Sex,Age-Adjusted Rate,lci,uci
+Hispanic,Male,40.9,36.9,45.2
+Hispanic,Female,26.3,23.7,29.2
+Asian and Pacific Islander Non-Hispanic,Male,65.2,58,73.1
+Asian and Pacific Islander Non-Hispanic,Female,42.3,37.3,47.9
+American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+Black Non-Hispanic,Male,71.4,64.1,79.3
+Black Non-Hispanic,Female,56,50.9,61.5
+White Non-Hispanic,Male,39.7,37.2,42.4
+White Non-Hispanic,Female,47.8,45.3,50.5

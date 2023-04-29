@@ -1,11 +1,11 @@
-Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
-Richmond County New York,Lung and Bronchus,2015-2019,Hispanic,Male,57.8,44.1,74,71,214336
-Richmond County New York,Lung and Bronchus,2015-2019,Hispanic,Female,42.3,32.6,53.9,70,220959
-Richmond County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,68.3,53,86.7,77,110925
-Richmond County New York,Lung and Bronchus,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,36,26.5,47.9,51,117798
-Richmond County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Lung and Bronchus,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Male,65.1,48.1,86,57,110158
-Richmond County New York,Lung and Bronchus,2015-2019,Black Non-Hispanic,Female,55.6,43.3,70.4,73,125707
-Richmond County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Male,73.1,67.7,78.8,710,713555
-Richmond County New York,Lung and Bronchus,2015-2019,White Non-Hispanic,Female,68,63.4,73,826,756853
+Race,Sex,Age-Adjusted Rate,lci,uci
+Hispanic,Male,57.8,44.1,74
+Hispanic,Female,42.3,32.6,53.9
+Asian and Pacific Islander Non-Hispanic,Male,68.3,53,86.7
+Asian and Pacific Islander Non-Hispanic,Female,36,26.5,47.9
+American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+Black Non-Hispanic,Male,65.1,48.1,86
+Black Non-Hispanic,Female,55.6,43.3,70.4
+White Non-Hispanic,Male,73.1,67.7,78.8
+White Non-Hispanic,Female,68,63.4,73

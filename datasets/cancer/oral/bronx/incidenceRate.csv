@@ -1,11 +1,11 @@
-Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,Hispanic,Male,16.8,14.7,19,256,1887877
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,Hispanic,Female,5.2,4.3,6.3,109,2118719
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,Black Non-Hispanic,Male,13.8,11.5,16.4,135,1002737
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,Black Non-Hispanic,Female,5.8,4.6,7.3,79,1154694
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,White Non-Hispanic,Male,18.2,14.4,22.8,88,336817
-Bronx County New York,Oral Cavity and Pharynx,2015-2019,White Non-Hispanic,Female,8.2,5.8,11.5,46,352007
+Race,Sex,Age-Adjusted Rate,lci,uci
+Hispanic,Male,16.8,14.7,19
+Hispanic,Female,5.2,4.3,6.3
+Asian and Pacific Islander Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+Asian and Pacific Islander Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+Black Non-Hispanic,Male,13.8,11.5,16.4
+Black Non-Hispanic,Female,5.8,4.6,7.3
+White Non-Hispanic,Male,18.2,14.4,22.8
+White Non-Hispanic,Female,8.2,5.8,11.5

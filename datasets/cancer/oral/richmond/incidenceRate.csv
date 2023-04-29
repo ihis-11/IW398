@@ -1,11 +1,11 @@
-Area,Cancer Type,Year,Race,Sex,Age-Adjusted Rate,lci,uci,Case Count,Population
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,Asian and Pacific Islander Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,Asian and Pacific Islander Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,Black Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,Black Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,White Non-Hispanic,Male,15,12.6,17.8,149,713555
-Richmond County New York,Oral Cavity and Pharynx,2015-2019,White Non-Hispanic,Female,5.6,4.3,7.2,65,756853
+Race,Sex,Age-Adjusted Rate,lci,uci
+Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+Asian and Pacific Islander Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+Asian and Pacific Islander Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+American Indian and Alaska Native Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+Black Non-Hispanic,Male,Data Suppressed,Data Suppressed,Data Suppressed
+Black Non-Hispanic,Female,Data Suppressed,Data Suppressed,Data Suppressed
+White Non-Hispanic,Male,15,12.6,17.8
+White Non-Hispanic,Female,5.6,4.3,7.2
