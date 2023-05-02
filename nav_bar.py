@@ -6,8 +6,9 @@ def create_nav_bar(page):
             dbc.DropdownMenu(
                 nav=True,
                 in_navbar=True,
-                label="Cancers",
+                label="Chronic Conditions",
                 children=[
+                    dbc.DropdownMenuItem("Diabetes", href='/diabetes'),
                     dbc.DropdownMenuItem("All Types of Cancers", href='/all'),
                     dbc.DropdownMenuItem("Colon & Rectum Cancer", href='/colorectal'),
                     dbc.DropdownMenuItem("Lung & Bronchus Cancer", href='/lung'),
@@ -20,6 +21,8 @@ def create_nav_bar(page):
                 in_navbar=True,
                 label="Causal Factors",
                 children=[
+                    dbc.DropdownMenuItem("Obesity", href='/obesity'),
+                    dbc.DropdownMenuItem("Physical Inactivity", href='/physical'),
                     dbc.DropdownMenuItem("Nutrition & Food", href='/nutrition'),
                     dbc.DropdownMenuItem("Healthcare", href='/healthcare'),
                     dbc.DropdownMenuItem("Substance Abuse", href='/substance'),

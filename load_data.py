@@ -1,4 +1,3 @@
-import geopandas as gpd
 import pandas as pd
 
 '''
@@ -237,17 +236,83 @@ def pancreas_mortality_data():
     return mortality_rates
 
 '''
+DIABETES DATA 
+'''
+
+def diabetes_data():
+    bronx_incidence = pd.read_csv('datasets/diabetes/bronx/diabetes_percentage.csv')
+    bronx_incidence.insert(0, "boro_code", [2.0]*17, True)
+
+    kings_incidence = pd.read_csv('datasets/diabetes/kings/diabetes_percentage.csv')
+    kings_incidence.insert(0, "boro_code", [3.0]*17, True)
+
+    ny_incidence = pd.read_csv('datasets/diabetes/ny/diabetes_percentage.csv')
+    ny_incidence.insert(0, "boro_code", [1.0]*17, True)
+
+    queens_incidence = pd.read_csv('datasets/diabetes/queens/diabetes_percentage.csv')
+    queens_incidence.insert(0, "boro_code", [4.0]*17, True)
+
+    richmond_incidence = pd.read_csv('datasets/diabetes/richmond/diabetes_percentage.csv')
+    richmond_incidence.insert(0, "boro_code", [5.0]*17, True)
+
+    diabetes_rates = pd.concat([richmond_incidence, bronx_incidence, ny_incidence, 
+                                 kings_incidence, queens_incidence], ignore_index = True)
+
+    # return diabetes_rates
+    return diabetes_rates
+
+'''
 SOCIO-ECONOMIC FACTORS DATA
 '''
+
+def diabetes_obesisty_data():
+    bronx_incidence = pd.read_csv('datasets/factors/diabetes_factors/bronx/obesity.csv')
+    bronx_incidence.insert(0, "boro_code", [2.0]*17, True)
+
+    kings_incidence = pd.read_csv('datasets/factors/diabetes_factors/kings/obesity.csv')
+    kings_incidence.insert(0, "boro_code", [3.0]*17, True)
+
+    ny_incidence = pd.read_csv('datasets/factors/diabetes_factors/ny/obesity.csv')
+    ny_incidence.insert(0, "boro_code", [1.0]*17, True)
+
+    queens_incidence = pd.read_csv('datasets/factors/diabetes_factors/queens/obesity.csv')
+    queens_incidence.insert(0, "boro_code", [4.0]*17, True)
+
+    richmond_incidence = pd.read_csv('datasets/factors/diabetes_factors/richmond/obesity.csv')
+    richmond_incidence.insert(0, "boro_code", [5.0]*17, True)
+
+    obesity_rates = pd.concat([richmond_incidence, bronx_incidence, ny_incidence, 
+                                 kings_incidence, queens_incidence], ignore_index = True)
+
+    # return diabetes_rates
+    return obesity_rates
+
+def diabetes_physical_data():
+    bronx_incidence = pd.read_csv('datasets/factors/diabetes_factors/bronx/physical_inactivity.csv')
+    bronx_incidence.insert(0, "boro_code", [2.0]*17, True)
+
+    kings_incidence = pd.read_csv('datasets/factors/diabetes_factors/kings/physical_inactivity.csv')
+    kings_incidence.insert(0, "boro_code", [3.0]*17, True)
+
+    ny_incidence = pd.read_csv('datasets/factors/diabetes_factors/ny/physical_inactivity.csv')
+    ny_incidence.insert(0, "boro_code", [1.0]*17, True)
+
+    queens_incidence = pd.read_csv('datasets/factors/diabetes_factors/queens/physical_inactivity.csv')
+    queens_incidence.insert(0, "boro_code", [4.0]*17, True)
+
+    richmond_incidence = pd.read_csv('datasets/factors/diabetes_factors/richmond/physical_inactivity.csv')
+    richmond_incidence.insert(0, "boro_code", [5.0]*17, True)
+
+    physical_inactivity = pd.concat([richmond_incidence, bronx_incidence, ny_incidence, 
+                                 kings_incidence, queens_incidence], ignore_index = True)
+
+    # return diabetes_rates
+    return physical_inactivity
 
 def nutrition_data():
     fruit_or_veggie = pd.read_csv('datasets/factors/nyc_statistics/fruit_or_veggie_consumption_2018.csv')
     fruit_or_veggie.insert(0, "boro_code", [2.0,3.0, 1.0, 4.0, 5.0], True)
     del fruit_or_veggie['County']
-
-    obesity = pd.read_csv('datasets/factors/nyc_statistics/obsesity_2018.csv')
-    obesity.insert(0, "boro_code", [2.0,3.0, 1.0, 4.0, 5.0], True)
-    del obesity['County']
 
     food_stamps = pd.read_csv('datasets/factors/nyc_statistics/food_stamp_2015_2019.csv')
     food_stamps.insert(0, "boro_code", [2.0,3.0, 1.0, 4.0, 5.0], True)
@@ -257,7 +322,7 @@ def nutrition_data():
     no_realiable_food.insert(0, "boro_code", [2.0,3.0, 1.0, 4.0, 5.0], True)
     del no_realiable_food['County']
 
-    return (no_realiable_food, food_stamps, fruit_or_veggie, obesity)
+    return (no_realiable_food, food_stamps, fruit_or_veggie)
 
 def insurance_data():
     dental_visit = pd.read_csv('datasets/factors/nyc_statistics/dental_visit_2018.csv')
